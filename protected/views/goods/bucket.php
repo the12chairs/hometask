@@ -1,4 +1,3 @@
-
 <?php 
 	foreach($data as $i){
 		if($i != null){
